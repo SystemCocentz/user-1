@@ -57,4 +57,4 @@ $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
 $cword= ['tes','premium',];
-$yogo=['tes','not for sale',];
+$yogo=['tes','Cocentz',];
