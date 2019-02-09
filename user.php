@@ -1,15 +1,15 @@
 <?php
 echo $kuning."[$red!$kuning]$red Warning !!!".$t;
-echo $putih."[🇲🇨] Language Indonesia".$t;
+echo $putih."[#] Language Indonesia".$t;
 echo $putih."[".$ijo."•".$putih."] Ini adalah program ilegal".$t;
 echo $putih."[".$ijo."•".$putih."] Resiko sepenuhnya di tanggung pengguna".$t;
-echo $putih."[🇬🇧] Language English".$t;
+echo $putih."[#] Language English".$t;
 echo $putih."[".$ijo."•".$putih."] This is an illegal program".$t;
 echo $putih."[".$ijo."•".$putih."] Risk fully borne by the user".$t;
 
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red Channel Cocentz".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
-$msgtt=$putih."[*] Enjoy Your Life !! ".$t;
+$msgtt=$putih."[#] YogoVideo bot multipe account".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
