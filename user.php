@@ -29,7 +29,7 @@ $data= [
 'THE JOET','Yogi Chiko','Jon Tendy','Panji Saputra','Michael Hermawan','Amelia Putri','Alexander Axio',
 'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar','Wendii Cimoot','Abdull',
 'Coki','behel.uje10@gmail.com','M.Khoirul Anwar','M. Khoirul Anwar','Belut Salmon','Selvi Ana','Syaifdin Joery',
-'Andri Mardat','KOCAK BGT','Papla Aqpkla','Muhammad pan','Irfan N','Becrotfr','Muhammad Khairil','Nando','Marsha',
+'Andri Mardat','KOCAK BGT','Papla Aqpkla','Muhammad pan','Irfan N','Becrotfr','Muhammad Khairil','Nando','Marsha','xFra01',
 'Silva','Fardan','Nurdinn','C. DROID','Vika Cu','cocis','Gantari belantara putri','Reffer','Khomsun Bungsu',
 'ria syafrianti','Ahmad Rianto','slamet budi','Al Izza Anwar Ibrahim','Aziz Moh','M A R I U S Z','MARIUSZ',
 'Herideha','nyamukabate@gmail.com','Remon Andy','Roby Sinambela','Fahri Hafiz','Riki Sudarso05','Dunia Anak','Tohir',
