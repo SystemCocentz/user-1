@@ -7,7 +7,7 @@ echo $putih."[#] Language English".$t;
 echo $putih."[".$ijo."•".$putih."] This is an illegal program".$t;
 echo $putih."[".$ijo."•".$putih."] Risk fully borne by the user".$t;
 
-$msgwe=$putih."[".$ijo."•".$putih."] Update script wne ( Vesea ) full fitur ready".$t;
+$msgwe=$putih."[".$ijo."•".$putih."] Update script wne ( VeFun ) sedang di kerjakan".$t."[!] mohon bersabar link apk : https://play.google.com/store/apps/details?id=com.yaroad.video.mobile".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgyogo=$putih."[#] YogoVideo bot multipe account".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT : Channel Cocentz".$t;
@@ -56,5 +56,4 @@ $data= [
 $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
-$cword= ['tes','premium',];
 $yogo=['tes','Cocentz',];
