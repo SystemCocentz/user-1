@@ -21,6 +21,15 @@ $ydblock=[""];
 $we_stat=true;
 $tt_stat=true;
 $stat_ads=true;
+$figletwne="
+  __     __   _____ [ v.3.1 ]
+  \ \   / /__|  ___|   _ _ __
+   \ \ / / _ \ |_ | | | | '_ \
+    \ V /  __/  _|| |_| | | | |
+     \_/ \___|_|   \__,_|_| |_|
+[ Creator: Cocentz | Code: M68807 ]
+   [ Youtube : Channel Cocentz ]
+";
 $data= [
  //we
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
