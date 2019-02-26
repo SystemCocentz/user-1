@@ -56,4 +56,15 @@ $mfix=$pnk."
 $msg_mfix=$kn."[$red!$kn] This bot must use a full network";
 $msg_king=$pth."[>] Official Youtube: Channel Cocentz";
 $st_mfix=true;
+
+$epic=$kn."
+  _____       _  ____          _
+ | ____|_ __ (_)/ ___|__ _ ___| |__
+ |  _| | '_ \| | |   / _` / __| '_ \
+ | |___| |_) | | |__| (_| \__ \ | | |
+ |_____| .__/|_|\____\__,_|___/_| |_|".$pth."
+ ------".$kn."|_|".$pth."---------------------------
+[ Creator :$ijo Cocentz$pth ]=[ Code :$ijo U1TDJ0$pth ]
+[ Subscribe Youtube :$red Channel Cocentz$pth ]".$t;
+$stat_epi=true;
 ?>
