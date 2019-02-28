@@ -46,6 +46,8 @@ $msg_flash=$pth."[".$ijo."#".$pth."] flash go bot";
 $msg_go=$pth."[".$red.">".$pth."] Official Youtube =>$red Channel Cocentz".$t;
 $stat_flash=true;
 
+
+
 $mfix=$pnk."
  __  __  __ _        _  ___
 |  \/  |/ _(_)_  __ | |/ (_)_ __   __ _
@@ -68,4 +70,16 @@ $epic=$kn."
  ------------------------------------".$t;
 $msg_epic="[>] Subscribe Channel Cocentz".$t;
 $stat_epi=true;
+
+$cash="
+   ____          _  __        __    _ _      _
+  / ___|__ _ ___| |_\ \      / /_ _| | | ___| |_
+ | |   / _` / __| '_ \ \ /\ / / _` | | |/ _ \ __|
+ | |__| (_| \__ \ | | \ V  V / (_| | | |  __/ |_
+  \____\__,_|___/_| |_|\_/\_/ \__,_|_|_|\___|\__|
+ --------------------------------------------------
+[ Creator code by : Cocentz | invite code : 805089 ]
+ --------------------------------------------------".$t;
+$msg_cash="[>] Youtube : Channel Cocentz".$t;
+
 ?>
