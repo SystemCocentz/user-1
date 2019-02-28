@@ -64,7 +64,7 @@ $epic=$kn."
  | |___| |_) | | |__| (_| \__ \ | | |
  |_____| .__/|_|\____\__,_|___/_| |_|".$pth."
  ------".$kn."|_|".$pth."---------------------------
-[ Creator :$ijo Cocentz$pth ]=[ Code :$ijo BHQLE6$pth ]
+[ Creator :$ijo Cocentz$pth ]=[ Code :$ijo IMG01H$pth ]
  ------------------------------------".$t;
 $msg_epic="[>] Subscribe Channel Cocentz".$t;
 $stat_epi=true;
