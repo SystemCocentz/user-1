@@ -81,5 +81,5 @@ $cash="
 [ Creator code by : Cocentz | invite code : 805089 ]
  --------------------------------------------------".$t;
 $msg_cash="[>] Youtube : Channel Cocentz".$t;
-
+$stat_cash=true;
 ?>
