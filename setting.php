@@ -71,15 +71,15 @@ $epic=$kn."
 $msg_epic="[>] Subscribe Channel Cocentz".$t;
 $stat_epi=true;
 
-$cash="
+$cash=$br."
    ____          _  __        __    _ _      _
   / ___|__ _ ___| |_\ \      / /_ _| | | ___| |_
  | |   / _` / __| '_ \ \ /\ / / _` | | |/ _ \ __|
  | |__| (_| \__ \ | | \ V  V / (_| | | |  __/ |_
-  \____\__,_|___/_| |_|\_/\_/ \__,_|_|_|\___|\__|
+  \____\__,_|___/_| |_|\_/\_/ \__,_|_|_|\___|\__|$pth
  --------------------------------------------------
-[ Creator code by : Cocentz | invite code : 805089 ]
+[ Creator code by$red :$ijo Cocentz$pth | invite code$red :$ijo 805089$pth ]
  --------------------------------------------------".$t;
-$msg_cash="[>] Youtube : Channel Cocentz".$t;
+$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot".$t."[".$tr.">".$pth."] Youtube 👉$red Channel Cocentz".$t;
 $stat_cash=true;
 ?>
