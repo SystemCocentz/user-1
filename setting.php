@@ -76,10 +76,10 @@ $cash=$br."
  / ___|__ _ ___| |__   \ \      / /_ _| | | ___| |_
 | |   / _` / __| '_ \   \ \ /\ / / _` | | |/ _ \ __|
 | |__| (_| \__ \ | | |   \ V  V / (_| | | |  __/ |_
- \____\__,_|___/_| |_|    \_/\_/ \__,_|_|_|\___|\__|
+ \____\__,_|___/_| |_|    \_/\_/ \__,_|_|_|\___|\__|$pth
 ----------------------------------------------------
 [ Creator by :$ijo Cocentz$pth |$red Youtube$pth :$red Channel Cocentz$pth ]
 ----------------------------------------------------".$t;
-$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot update [ v.2 ]".$t."[".$tr.">".$pth."] Youtube 👉$red Channel Cocentz".$t;
+$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot update [ v.2 ]".$t."[".$tr.">".$pth."] Use my code invite 👉$ijo 805089".$t;
 $stat_cash=true;
 ?>
