@@ -72,14 +72,14 @@ $msg_epic="[>] Subscribe Channel Cocentz".$t;
 $stat_epi=true;
 
 $cash=$br."
-   ____          _  __        __    _ _      _
-  / ___|__ _ ___| |_\ \      / /_ _| | | ___| |_
- | |   / _` / __| '_ \ \ /\ / / _` | | |/ _ \ __|
- | |__| (_| \__ \ | | \ V  V / (_| | | |  __/ |_
-  \____\__,_|___/_| |_|\_/\_/ \__,_|_|_|\___|\__|$pth
- --------------------------------------------------
-[ Creator code by$red :$ijo Cocentz$pth | invite code$red :$ijo 805089$pth ]
- --------------------------------------------------".$t;
-$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot".$t."[".$tr.">".$pth."] Youtube 👉$red Channel Cocentz".$t;
+  ____          _      __        __    _ _      _
+ / ___|__ _ ___| |__   \ \      / /_ _| | | ___| |_
+| |   / _` / __| '_ \   \ \ /\ / / _` | | |/ _ \ __|
+| |__| (_| \__ \ | | |   \ V  V / (_| | | |  __/ |_
+ \____\__,_|___/_| |_|    \_/\_/ \__,_|_|_|\___|\__|
+----------------------------------------------------
+[ Creator by :$ijo Cocentz$pth |$red Youtube$pth :$red Channel Cocentz$pth ]
+----------------------------------------------------".$t;
+$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot update [ v.2 ]".$t."[".$tr.">".$pth."] Youtube 👉$red Channel Cocentz".$t;
 $stat_cash=true;
 ?>
