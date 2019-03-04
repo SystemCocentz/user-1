@@ -78,9 +78,9 @@ $cash=$br."
 | |__| (_| \__ \ | | |   \ V  V / (_| | | |  __/ |_
  \____\__,_|___/_| |_|    \_/\_/ \__,_|_|_|\___|\__|$pth
 ----------------------------------------------------
-[ Creator by :$ijo Cocentz$pth | Invite Code :$ijo 805089$pth ]
+[ Creator coded by :$ijo Cocentz$pth | Invite Code :$ijo 805089$pth ]
 ----------------------------------------------------".$t;
 $msg_c=$pth."[".$ijo."•".$pth."] Support :$tr Aw 2000".$t."[".$ijo."•".$pth."] Subscribe Channel YT 👉 AW 2000".$t;
-$msg_cash=$pth."[".$ijo."#".$pth."] Cash Wallet bot update [ v.2 ]".$t."[".$tr.">".$pth."] Subsceibe Channel YT 👉$ijo Channel Cocentz".$t;
+$msg_cash=$pth."[".$tr.">".$pth."] Subsceibe Channel YT 👉$ijo Channel Cocentz".$t;
 $stat_cash=true;
 ?>
