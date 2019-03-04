@@ -78,9 +78,9 @@ $cash=$br."
 | |__| (_| \__ \ | | |   \ V  V / (_| | | |  __/ |_
  \____\__,_|___/_| |_|    \_/\_/ \__,_|_|_|\___|\__|$pth
 ----------------------------------------------------
-[ Creator coded by :$ijo Cocentz$pth | Invite Code :$ijo 805089$pth ]
+[ Creator code by :$ijo Cocentz$pth | Invite Code :$ijo 805089$pth ]
 ----------------------------------------------------".$t;
-$msg_c=$pth."[".$ijo."•".$pth."] Support :$tr Aw 2000".$t."[".$ijo."•".$pth."] Subscribe Channel YT 👉 AW 2000".$t;
-$msg_cash=$pth."[".$tr.">".$pth."] Subsceibe Channel YT 👉$ijo Channel Cocentz".$t;
+$msg_c=$pth."[".$ijo."•".$pth."] Support :$tr Aw 2000".$t."[".$ijo.">".$pth."] Subscribe Channel YT 👉$ijo AW 2000".$t;
+$msg_cash=$pth."[".$ijo.">".$pth."] Subsceibe Channel YT 👉$red Channel Cocentz".$t;
 $stat_cash=true;
 ?>
