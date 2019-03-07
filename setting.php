@@ -83,4 +83,19 @@ $cash=$br."
 $msg_c=$pth."[".$ijo."•".$pth."] Support :$tr Aw 2000".$t."[".$ijo.">".$pth."] Subscribe Channel YT 👉$ijo AW 2000".$t;
 $msg_cash=$pth."[".$ijo.">".$pth."] Subsceibe Channel YT 👉$red Channel Cocentz".$t;
 $stat_cash=true;
+
+$rfi=$pnk."
+  ________     __________   ________
+  ___  __ \    ___  ____/   ____  _/
+  __  /_/ /    __  /_        __  /
+  _  _, _/     _  __/       __/ /
+  /_/ |_|      /_/          /___/$pth
+  Repost       For        Instagram
+------------------------------------
+[ Creator :$ijo Cocentz$pth | Code :$ijo 22051$pth ]
+------------------------------------".$t;
+$msg_ig=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
+$mgg_repos=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
+$st_ig=true;
+
 ?>
