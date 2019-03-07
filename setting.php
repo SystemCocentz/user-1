@@ -96,6 +96,6 @@ $rfi=$pnk."
 ------------------------------------".$t;
 $msg_ig=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $mgg_repos=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
-$st_ig=true;
+$stat_rfi=true;
 
 ?>
