@@ -98,4 +98,17 @@ $msg_ig=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $mgg_repos=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
 $stat_rfi=true;
 
+$emon=$tr."
+       __  __
+   ___|  \/  | ___  _ __   ___ _   _
+  / _ \ |\/| |/ _ \| '_ \ / _ \ | | |
+ |  __/ |  | | (_) | | | |  __/ |_| |
+  \___|_|  |_|\___/|_| |_|\___|\__, |$pth
+-------------------------------".$tr."|___/".$pth."--
+[ Creator :$ijo Cocentz$th || Code :$ijo 605573$pth ]
+--------------------------------------".$t;
+$msg_e=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
+$msg_money=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
+$stat_cash=true;
+
 ?>
