@@ -105,7 +105,7 @@ $emon=$tr."
  |  __/ |  | | (_) | | | |  __/ |_| |
   \___|_|  |_|\___/|_| |_|\___|\__, |$pth
 -------------------------------".$tr."|___/".$pth."--
-[ Creator :$ijo Cocentz$th || Code :$ijo 605573$pth ]
+[ Creator :$ijo Cocentz$pth || Code :$ijo 605573$pth ]
 --------------------------------------".$t;
 $msg_e=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $msg_money=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
