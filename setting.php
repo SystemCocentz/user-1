@@ -109,6 +109,6 @@ $emon=$tr."
 --------------------------------------".$t;
 $msg_e=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $msg_money=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
-$stat_cash=true;
+$stat_emoney=true;
 
 ?>
