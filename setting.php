@@ -111,4 +111,18 @@ $msg_e=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $msg_money=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
 $stat_emoney=true;
 
+$rapid=$br."
+  ____             _     _
+ |  _ \ __ _ _ __ (_) __| |$pth [$red v.1$pth ready ]$br
+ | |_) / _` | '_ \| |/ _` | 
+ |  _ < (_| | |_) | | (_| |$pth Creator :$ijo Cocentz$bt
+ |_| \_\__,_| .__/|_|\__,_|$pth Referal :$ijo 123456$br
+            |_|  __  __    $pth Suppirt :$tr AW 2000$br
+                |  \/  | ___  _ __   ___ _   _
+                | |\/| |/ _ \| '_ \ / _ \ | | |
+                | |  | | (_) | | | |  __/ |_| |
+                |_|  |_|\___/|_| |_|\___|\__, |
+                                         |___/".$pth.$t;
+$msg_rapid=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
+$stat_rapid=true;
 ?>
