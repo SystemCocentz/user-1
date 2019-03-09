@@ -114,10 +114,10 @@ $stat_emoney=true;
 $rapid=$br."
   ____             _     _
  |  _ \ __ _ _ __ (_) __| |$pth [$red v.1$pth ready ]$br
- | |_) / _` | '_ \| |/ _` | 
- |  _ < (_| | |_) | | (_| |$pth Creator :$ijo Cocentz$bt
+ | |_) / _` | '_ \| |/ _` |$pth -------------------$br
+ |  _ < (_| | |_) | | (_| |$pth Creator :$ijo Cocentz$br
  |_| \_\__,_| .__/|_|\__,_|$pth Referal :$ijo 123456$br
-            |_|  __  __    $pth Suppirt :$tr AW 2000$br
+            |_|  __  __    $pth Suppirt :$tr AW 2000$kn
                 |  \/  | ___  _ __   ___ _   _
                 | |\/| |/ _ \| '_ \ / _ \ | | |
                 | |  | | (_) | | | |  __/ |_| |
