@@ -105,7 +105,7 @@ $emon=$tr."
  |  __/ |  | | (_) | | | |  __/ |_| |
   \___|_|  |_|\___/|_| |_|\___|\__, |$pth
 -------------------------------".$tr."|___/".$pth."--
-[ Creator :$ijo Cocentz$pth || Code :$ijo 605573$pth ]
+[ Creator :$ijo Cocentz$pth || Code :$ijo 806516$pth ]
 --------------------------------------".$t;
 $msg_e=$pth."[".$ijo."•".$pth."] support :$tr AW 2000".$t;
 $msg_money=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
@@ -116,7 +116,7 @@ $rapid=$br."
  |  _ \ __ _ _ __ (_) __| |$pth [$red v.1$pth ready ]$br
  | |_) / _` | '_ \| |/ _` |$pth -----------------$br
  |  _ < (_| | |_) | | (_| |$pth Creator :$ijo Cocentz$br
- |_| \_\__,_| .__/|_|\__,_|$pth Referal :$ijo 123456$br
+ |_| \_\__,_| .__/|_|\__,_|$pth Referal :$ijo 806516$br
             |_|$kn  __  __    $pth Suppirt :$tr AW 2000$kn
                 |  \/  | ___  _ __   ___ _   _
                 | |\/| |/ _ \| '_ \ / _ \ | | |
