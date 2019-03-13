@@ -1,5 +1,9 @@
 <?php
 /* setting bot */
+$warn=$red."[!] warning !!!
+".$kn."[-] ini adalah program ilegal
+".$kn."[-] resiko sepenuhnya di tanggung pengguna".$t;
+
 $baca_plus=$red."
  ____                  $kuning  ____  _$red
 | __ )  __ _  ___ __ _ $kuning |  _ \| |_   _ ___$red
