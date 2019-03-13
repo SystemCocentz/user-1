@@ -125,4 +125,14 @@ $rapid=$br."
                                          |___/".$pth.$t;
 $msg_rapid=$pth."[".$ijo."•".$pth."]$red subsceibe YT 👉$pth Channel Cocentz".$t."[".$ijo."•".$pth."]$red subscribe YT 👉$pth AW 2000".$t;
 $stat_rapid=true;
+
+$vilo=$pth."
+__     ___ _        __     ___     _
+\ \   / (_) | ___   \ \   / (_) __| | ___  ___
+ \ \ / /| | |/ _ \   \ \ / /| |/ _` |/ _ \/ _ \
+  \ V / | | | (_) |   \ V / | | (_| |  __/ (_) |
+   \_/  |_|_|\___/     \_/  |_|\__,_|\___|\___/
+[ Creator : Cocentz | Youtube : Channel Cocentz ]".$t;
+$stat_vilo=true;
+
 ?>
