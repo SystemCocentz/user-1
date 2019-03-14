@@ -1,12 +1,12 @@
 <?php
 /* setting bot */
-$warn=$kuning."[$red!$kuning]$red Warning !!!".$t."
+$warn=$kn."[$red!$kn]$red Warning !!!".$t."
 [#] Language Indonesia".$t.
-$putih."[".$ijo."•".$putih."] Ini adalah program ilegal".$t.
-$putih."[".$ijo."•".$putih."] Resiko sepenuhnya di tanggung pengguna".$t.
-$putih."[#] Language English".$t.
-$putih."[".$ijo."•".$putih."] This is an illegal program".$t.
-$putih."[".$ijo."•".$putih."] Risk fully borne by the user".$t;
+$pth."[".$ijo."•".$pth."] Ini adalah program ilegal".$t.
+$pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t.
+$pth."[#] Language English".$t.
+$pth."[".$ijo."•".$pth."] This is an illegal program".$t.
+$pth."[".$ijo."•".$pth."] Risk fully borne by the user".$t;
 
 
 $baca_plus=$red."
