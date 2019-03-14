@@ -139,4 +139,14 @@ __     ___ _        __     ___     _
 [ Creator : Cocentz | Youtube : Channel Cocentz ]".$t;
 $stat_vilo=true;
 
+$dog=$red."
+ _               _          ____$pth [$red v.1$tr beta$pth ]$red
+| |   _   _  ___| | ___   _|  _ \  ___   __ _
+| |  | | | |/ __| |/ / | | | | | |/ _ \ / _` |
+| |__| |_| | (__|   <| |_| | |_| | (_) | (_| |
+|_____\__,_|\___|_|\_\\__, |____/ \___/ \__, |$pth
+[ Creator :$ijo Cocentz$pth ]$red |___/$pth -$tr ready use$red |___/".$t;
+$msg_dog=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".$t;
+$stat_dog=true;
+
 ?>
