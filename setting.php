@@ -153,5 +153,6 @@ $dog=$red."
 [ Creator :$ijo Cocentz$pth ]$red |___/$pth -$tr ready use$red |___/".$t;
 $msg_dog=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".$t;
 $stat_dog=true;
+$pass="Cocentz404";
 
 ?>
