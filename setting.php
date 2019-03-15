@@ -1,10 +1,10 @@
 <?php
 /* setting bot */
-$warn=$kn."[$red!$kn]$red Warning !!!".$t."
-[#]$tr Language Indonesia".$t.
+$warn=$kn."[$red!$kn]$red Warning !!!".$t.$pth."
+[$tr#$pth]$tr Language Indonesia".$t.
 $pth."[".$ijo."•".$pth."] Ini adalah program ilegal".$t.
 $pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t.
-$pth."[#]$tr Language English".$t.
+$pth."[$tr#$pth]$tr Language English".$t.
 $pth."[".$ijo."•".$pth."] This is an illegal program".$t.
 $pth."[".$ijo."•".$pth."] Risk fully borne by the user".$t;
 
