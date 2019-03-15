@@ -164,4 +164,20 @@ $god=$kn."
  [ Creator :$ijo Cocentz$pth ]=[$red YT$pth : Channel Cocentz ]".$t;
 $msg_god=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".$t;
 $stat_god=true;
+
+$vr=$pth."
+[$ijo Video$pth ]===[$ijo Rewards$pth ]$pnk
+██▒   █▓    ██▀███$pth [$red v.1$pth ]$pnk
+▓██░   █▒   ▓██ ▒ ██▒
+ ▓██  █▒░   ▓██ ░▄█ ▒
+  ▒██ █░░   ▒██▀▀█▄
+   ▒▀█░     ░██▓ ▒██▒$pth
+[ Creator by :$ijo Cocentz$pth ]$pnk
+   ░ ▐░     ░ ▒▓ ░▒▓░
+   ░ ░░       ░▒ ░ ▒░
+     ░░       ░░   ░
+      ░        ░".$t;
+$msg_vr=$pth."[$br>$pth]$red Subscribe YT$pth Channel Cocentz".$t."[#] Suntik Refral Video Reawards".$t;
+$stat_vr=true;
+
 ?>
