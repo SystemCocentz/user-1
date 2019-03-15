@@ -1,10 +1,10 @@
 <?php
 /* setting bot */
 $warn=$kn."[$red!$kn]$red Warning !!!".$t."
-[#] Language Indonesia".$t.
+[#]$tr Language Indonesia".$t.
 $pth."[".$ijo."•".$pth."] Ini adalah program ilegal".$t.
 $pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t.
-$pth."[#] Language English".$t.
+$pth."[#]$tr Language English".$t.
 $pth."[".$ijo."•".$pth."] This is an illegal program".$t.
 $pth."[".$ijo."•".$pth."] Risk fully borne by the user".$t;
 
@@ -160,7 +160,7 @@ $god=$kn."
   / ___| ___   ___   __| | |   _   _  ___| | __
  | |  _ / _ \ / _ \ / _` | |  | | | |/ __| |/ /
  | |_| | (_) | (_) | (_| | |__| |_| | (__|   <
-  \____|\___/ \___/ \__,_|_____\__,_|\___|_|\_\
+  \____|\___/ \___/ \__,_|_____\__,_|\___|_|\_\ $pth
  [ Creator :$ijo Cocentz$pth ]=[$red YT$pth : Channel Cocentz ]".$t;
 $msg_god=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".$t;
 $stat_god=true;
