@@ -167,12 +167,12 @@ $stat_god=true;
 
 $vr=$pth."
 [$ijo Video$pth ]===[$ijo Rewards$pth ]$pnk
-██▒   █▓    ██▀███$pth [$red v.1$pth ]$pnk
+██▒   █▓    ██▀███$pth[$red v.1$pth ]$pnk
 ▓██░   █▒   ▓██ ▒ ██▒
  ▓██  █▒░   ▓██ ░▄█ ▒
   ▒██ █░░   ▒██▀▀█▄
    ▒▀█░     ░██▓ ▒██▒$pth
-[ Creator by :$ijo Cocentz$pth ]$pnk
+[ Creator :$ijo Cocentz$pth ]$pnk
    ░ ▐░     ░ ▒▓ ░▒▓░
    ░ ░░       ░▒ ░ ▒░
      ░░       ░░   ░
