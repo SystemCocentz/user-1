@@ -155,4 +155,13 @@ $msg_dog=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".
 $stat_dog=true;
 $pass="Cocentz404";
 
+$god=$kn."
+   ____                 _ _               _
+  / ___| ___   ___   __| | |   _   _  ___| | __
+ | |  _ / _ \ / _ \ / _` | |  | | | |/ __| |/ /
+ | |_| | (_) | (_) | (_| | |__| |_| | (__|   <
+  \____|\___/ \___/ \__,_|_____\__,_|\___|_|\_\
+ [ Creator :$ijo Cocentz$pth ]=[$red YT$pth : Channel Cocentz ]".$t;
+$msg_god=$pth."[".$ijo."•".$pth."]$red Subsceibe YT 👉$pth Channel Cocentz".$t;
+$stat_god=true;
 ?>
