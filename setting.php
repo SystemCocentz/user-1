@@ -177,7 +177,7 @@ $vr=$pth."
    ░ ░░       ░▒ ░ ▒░
      ░░       ░░   ░
       ░        ░".$t;
-$msg_vr=$pth."[$br>$pth]$red Subscribe YT$pth Channel Cocentz".$t."[#] Suntik Refral Video Reawards".$t;
+$msg_vr=$pth."[$tr>$pth] [support :$tr AW 2000$pth]".$t"[$red>$pth] Subscribe YT 👉$tr AW 2000".$t.$pth."[$red>$pth] Subscribe YT 👉$tr Channel Cocentz".$t.$t.$pth."[#] Suntik Refral Video Reawards".$t;
 $stat_vr=true;
 
 ?>
