@@ -180,4 +180,15 @@ $vr=$pth."
 $msg_vr=$pth."[$tr>$pth] [support :$tr AW 2000$pth]".$t."[$red>$pth] Subscribe YT 👉$tr AW 2000".$t.$pth."[$red>$pth] Subscribe YT 👉$tr Channel Cocentz".$t.$t.$pth."[#] Suntik Refral Video Reawards".$t;
 $stat_vr=true;
 
-?>
+$noti=$pth."                        
+ _   _       _   _ ____  _ ---[$red v.1$tr ready$pth ]---
+| \ | | ___ | |_(_)  _ \(_)_ __   ___ _ __ ___
+|  \| |/ _ \| __| | | | | | '_ \ / _ \ '__/ _ \ $ijo
+| |\  | (_) | |_| | |_| | | | | |  __/ | | (_) |
+|_| \_|\___/ \__|_|____/|_|_| |_|\___|_|  \___/ $pth
+-----------------------------------------------$tr
+=××××".$pth."[ Creator :$ijo Cocentz$pth | Code :$ijo UFTLSC$pth ]".$tr."××××=$pth
+-----------------------------------------------".$t;
+$msg_supot=$pth."[".$tr.">".$pth."] [support :$tr AW 2000$pth &&$kn HĂN C_GAMER$pth]".$t;
+$msg_noti=$pth."     >>$red Subscribe Channel$pth <<".$t."[$red>$pth] [ AW 2000 ]===•===[ HĂN C_GAMER ]".$t;
+$stat_noti=true;
