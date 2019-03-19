@@ -3,11 +3,7 @@
 $warn=$kn."[$red!$kn]$red Warning !!!$pth
 [$tr#$pth]$tr Language Indonesia".$t.
 $pth."[".$ijo."•".$pth."] Ini adalah program ilegal".$t.
-$pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t.
-$pth."[$tr#$pth]$tr Language English".$t.
-$pth."[".$ijo."•".$pth."] This is an illegal program".$t.
-$pth."[".$ijo."•".$pth."] Risk fully borne by the user".$t;
-
+$pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t;
 
 $baca_plus=$red."
  ____                  $kuning  ____  _$red
@@ -190,5 +186,5 @@ $noti=$pth."
 =××××".$pth."[ Creator :$ijo Cocentz$pth | Code :$ijo UFTLSC$pth ]".$tr."××××=$pth
 -----------------------------------------------".$t;
 $msg_supot=$pth."[".$tr.">".$pth."] [support :$tr AW 2000$pth &&$kn HĂN C_GAMER$pth]".$t;
-$msg_noti=$pth."     >>$red Subscribe Channel$pth <<".$t."[$red>$pth] [ AW 2000 ]===•===[ HĂN C_GAMER ]".$t;
+$msg_noti=$pth."     >>$red Subscribe Channel$pth <<".$t."[ AW 2000 ]===•===[ HĂN C_GAMER ]".$t;
 $stat_noti=true;
