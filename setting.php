@@ -183,8 +183,8 @@ $noti=$pth."
 | |\  | (_) | |_| | |_| | | | | |  __/ | | (_) |
 |_| \_|\___/ \__|_|____/|_|_| |_|\___|_|  \___/ $pth
 -----------------------------------------------$tr
-=××××".$pth."[ Creator :$ijo Cocentz$pth | Code :$ijo UFTLSC$pth ]".$tr."××××=$pth
+-----".$pth."[ Creator :$ijo Cocentz$pth | Code :$ijo UFTLSC$pth ]".$tr."-----$pth
 -----------------------------------------------".$t;
-$msg_supot=$pth."-------| Support:$tr AW 2000$kn HĂN C_GAMER$pth |-------".$t;
+$msg_supot=$pth."-------| Support :$tr AW 2000$kn HĂN C_GAMER$pth |-------".$t;
 $msg_noti=$pth."-------| 😉😍$red Subscribe$pth Chanel YT 😊😘$pth |-------".$t."-------|$pth Official$red 👉 Channel Cocentz$pth 👈|-------".$t."-------|$br AW 2000$pth ]===".$kn."✌️".$pth."===[$pnk HĂN C_GAMER$pth |-------".$t;
 $stat_noti=true;
