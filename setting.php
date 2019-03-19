@@ -186,5 +186,5 @@ $noti=$pth."
 =××××".$pth."[ Creator :$ijo Cocentz$pth | Code :$ijo UFTLSC$pth ]".$tr."××××=$pth
 -----------------------------------------------".$t;
 $msg_supot=$pth."------[ Support$red :$tr AW 2000$pth &$kn HĂN C_GAMER$pth ]------".$t;
-$msg_noti=$pth."          >>[$red Subscribe$pth Channel YT$pth ]<<".$t."-------[$pth Oficial$red 👉 Channel Cocentz$pth 👈]-------".$t."-------[$br AW 2000$pth ]===".$ijo."•".$pth."===[$pnk HĂN C_GAMER$pth ]-------".$t;
+$msg_noti=$pth."----------[$red Subscribe$pth Channel YT$pth ]----------".$t."-------[$pth Official$red 👉 Channel Cocentz$pth 👈]-------".$t."-------[$br AW 2000$pth ]===".$ijo."•".$pth."===[$pnk HĂN C_GAMER$pth ]-------".$t;
 $stat_noti=true;
