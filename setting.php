@@ -188,3 +188,16 @@ $noti=$pth."
 $msg_supot=$pth."-------| Support :$tr AW 2000$kn HĂN C_GAMER$pth |-------".$t;
 $msg_noti=$pth."-------| 😉😍$red Subscribe$pth Chanel YT 😊😘$pth |-------".$t."-------|$pth Official$red 👉 Channel Cocentz$pth 👈|-------".$t."-------|$br AW 2000$pth ]===".$kn."✌️".$pth."===[$pnk HĂN C_GAMER$pth |-------".$t;
 $stat_noti=true;
+
+$yogo=$kn."
+__   __$pth [$red v.2.0.5$pth ]$kn __     ___     _$pth [$tr ready$pth ]$kn
+\ \ / /__   __ _  __\ \   / (_) __| | ___  ___
+ \ V / _ \ / _` |/ _ \ \ / /| |/ _` |/ _ \/ _ \
+  | | (_) | (_| | (_) \ V / | | (_| |  __/ (_) |
+  |_|\___/ \__, |\___/ \_/  |_|\__,_|\___|\___/ $pth
+[$red version ]$kn|___/$pth [".$ijo."••".$pth." New Update bot yogoVideo ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ Creator :$ijo Cocentz$pth ]===".$ijo."X".$pth."===[ Code :$ijo 181626356$pth ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
+$stat_yogo=true;
+            
