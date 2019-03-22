@@ -195,9 +195,10 @@ __   __$pth [$red v.2.0.5$pth ]$kn __     ___     _$pth [$tr ready$pth ]$kn
  \ V / _ \ / _` |/ _ \ \ / /| |/ _` |/ _ \/ _ \
   | | (_) | (_| | (_) \ V / | | (_| |  __/ (_) |
   |_|\___/ \__, |\___/ \_/  |_|\__,_|\___|\___/ $pth
-[$red version ]$kn|___/$pth [".$ijo."••".$pth." New Update bot yogoVideo ]
+[$red version$pth ]$kn|___/$pth [".$ijo." ••".$pth." New Update bot yogoVideo ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [ Creator :$ijo Cocentz$pth ]===".$ijo."X".$pth."===[ Code :$ijo 181626356$pth ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
+$msg_yogo=$pth."[$tr>$pth] support :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth."[$pnk>$pth]$red Subscribe YT 👉$pnk HĂN C_GAMER".$t;
 $stat_yogo=true;
             
