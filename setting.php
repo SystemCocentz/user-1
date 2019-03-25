@@ -218,5 +218,15 @@ $ecash=$tr."
         ░".$t;
 $msg_ecash=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth." [$pnk>$pth]$pnk HĂN C_GAMER".$t;
 $stat_ecash=true;
-            
+
+$prok=$tr."
+ ____            _         _
+|  _ \ _ __ ___ | | ____ _| |__   __ _ _ __
+| |_) | '__/ _ \| |/ / _` | '_ \ / _` | '__|
+|  __/| | | (_) |   < (_| | |_) | (_| | |
+|_|   |_|  \___/|_|\_\__,_|_.__/ \__,_|_|$pth
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ Creator  :$ijo Cocentz$pth ]=x".$ijo."X".$pth."x=[ Kode :$ijo ifq1uz$pth ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
+$msg_pro=$pth."[•] enjoy your life".$t;
 ?>
