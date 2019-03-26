@@ -228,5 +228,6 @@ $prok=$tr."
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [ Creator  :$ijo Cocentz$pth ]=x".$ijo."X".$pth."x=[ Kode :$ijo ifq1uz$pth ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
-$msg_pro=$pth."[•] enjoy your life".$t;
+$msg_pro=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth." [$pnk>$pth]$pnk HĂN C_GAMER".$t;
+$stat_pro=true;
 ?>
