@@ -195,7 +195,7 @@ __   __$pth [$red v.2.0.5$pth ]$kn __     ___     _$pth [$tr ready$pth ]$kn
  \ V / _ \ / _` |/ _ \ \ / /| |/ _` |/ _ \/ _ \
   | | (_) | (_| | (_) \ V / | | (_| |  __/ (_) |
   |_|\___/ \__, |\___/ \_/  |_|\__,_|\___|\___/ $pth
-[$red version$pth ]$kn|___/$pth [".$ijo." ••".$pth." New Update bot yogoVideo ]
+[$red version$pth ]$kn|___/$pth [".$ijo." ••".$pth." New Update bot YogoVideo ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [ Creator :$ijo Cocentz$pth ]===".$ijo."X".$pth."===[ Code :$ijo 181626356$pth ]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
