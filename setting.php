@@ -201,7 +201,23 @@ __   __$pth [$red v.2.0.5$pth ]$kn __     ___     _$pth [$tr ready$pth ]$kn
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
 $msg_yogo=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth." [$pnk>$pth]$pnk HĂN C_GAMER".$t;
 $stat_yogo=true;
-
+$pasyogo="
+while(true){
+$pass=readline($pth."[$red?$pth] Masukan Password$ijo : ");
+  if($pass=="Cocentz gaskeun"){
+echo$pth."[$ijo>$pth] Cocentz [$ijo Access OK$pth ]".$t.$t;
+break;
+} 
+  elseif($pass==""){
+echo$pth."[".$ijo."•".$pth."]$kn please fill in the password!".$t;
+continue;
+}
+  elseif($pass!=="Cocentz gaskeu"){
+echo$kn."[$red!$kn]$pth Cocentz$pth [$red Access denied$pth ]".$t;
+exit;
+ }
+}
+".$t;
 
 $ecash=$tr."
  ▓█████  ▄████▄   ▄▄▄        ██████  ██░ ██
