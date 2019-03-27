@@ -201,7 +201,8 @@ __   __$pth [$red v.2.0.5$pth ]$kn __     ___     _$pth [$tr ready$pth ]$kn
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
 $msg_yogo=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth." [$pnk>$pth]$pnk HĂN C_GAMER".$t;
 $yog=['tes','Cocentz',];
-$passY="Cocentz allow entri";
+$passY="
+<?php
   if($passY=="Cocentz allow entri"){
 echo$pth."[$ijo>$pth]$ijo Cocentz$pth - [$ijo Access OK$pth ]".$t:
 }
@@ -212,6 +213,8 @@ echo$pth."[$red!$pth]$kn please fill in the password!".$t;
 echo$kn."[$red!$kn]$pth Cocentz - [$red Access denied$pth ]".$t;
 exit;
 }
+?>".$t;
+
    
 $stat_yogo=true;
 
