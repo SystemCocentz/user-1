@@ -1,7 +1,6 @@
 <?php
 /* setting bot */
-$warn=$kn."[$red!$kn]$red Warning !!!$pth
-[$tr#$pth]$tr Language Indonesia".$t.
+$warn=$kn."[$red!$kn]$red Warning !!!".$pth.$t.
 $pth."[".$ijo."•".$pth."] Ini adalah program ilegal".$t.
 $pth."[".$ijo."•".$pth."] Resiko sepenuhnya di tanggung pengguna".$t;
 
@@ -229,4 +228,13 @@ $prok=$tr."
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".$t;
 $msg_pro=$pth."[$tr>$pth] Support by :$tr AW 2000$pth &$kn HĂN C_GAMER".$t.$pth."[$red>$pth]$red Subscribe YT$pth 👉 Channel Cocentz".$t."[$br>$pth]$red Subscribe YT 👉$br AW 2000".$pth." [$pnk>$pth]$pnk HĂN C_GAMER".$t;
 $stat_pro=false;
+
+$like=$pth."
+ _     _ _
+| |   (_) | _____ _ __ ___   ___
+| |   | | |/ / _ \ '_ ` _ \ / _ \
+| |___| |   <  __/ | | | | |  __/
+|_____|_|_|\_\___|_| |_| |_|\___|
+[•••••• Creator : Cocentz ••••••]".$t;
+$stat_like=true;
 ?>
